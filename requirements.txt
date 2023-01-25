@@ -1,0 +1,15 @@
+nbgitpuller 
+numpy
+scipy
+matplotlib
+colorama
+xlrd
+openpyxl
+Jinja2
+statsmodels
+natsort
+pyicu
+mendeleev
+sympy
+seaborn
+uncertainties
